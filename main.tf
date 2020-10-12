@@ -3,7 +3,7 @@ terraform {
     organization = "hashicorp-learn"
 
     workspaces {
-      name = "learn-terraform-pipelines-k8s"
+      name = "vasileios-k-k8s"
     }
   }
 }
